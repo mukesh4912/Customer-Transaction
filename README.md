@@ -1,4 +1,6 @@
 # CUSTOMER TRANSACTION PREDICTION
+![image](https://github.com/user-attachments/assets/cb071654-1ccb-43b8-8a89-854d2527c5a3)![image](https://github.com/user-attachments/assets/fc2fd3e0-ae9c-4cca-9696-deda41624011)
+
 
 ## INTRODUCTION:
 With the Problem   of the customers who will make a transaction with the bank in future, irrespective of the amount of money transacted previously with the bank, the dataset contain 200000 observation with 202 columns with 200 columns having values for var_1 to var_200, one column for ID code and one column for target
